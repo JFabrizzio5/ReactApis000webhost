@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ApiTester/static/css/main.073c9b0a.css",
+    "main.js": "/ApiTester/static/js/main.bfb4deda.js",
+    "static/js/787.28cb0dcd.chunk.js": "/ApiTester/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/ApiTester/index.html",
+    "main.073c9b0a.css.map": "/ApiTester/static/css/main.073c9b0a.css.map",
+    "main.bfb4deda.js.map": "/ApiTester/static/js/main.bfb4deda.js.map",
+    "787.28cb0dcd.chunk.js.map": "/ApiTester/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bfb4deda.js"
+  ]
+}
